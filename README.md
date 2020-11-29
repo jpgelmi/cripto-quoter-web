@@ -1,8 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 # Proyect online
-
-jp-criptocoins.netlify.app
+https://jp-criptocoins.netlify.app
 
 ## Available Scripts
 
